@@ -1,56 +1,22 @@
 # Chase Dimond — LinkedIn Posts
 
-- **LinkedIn Profile:** https://www.linkedin.com/in/chasedimond
-- **Annotation:** <!-- Add overall notes about this expert's LinkedIn content -->
+Expert Name: Chase Dimond
+Post Date: 2026-06-08
+Post Text: Every once in a while, I see something in email and go… huh, why isn't this already how it works?
 
----
+This is one of those.
 
-## Post 1
+It's called Allan, and the first time someone walked me through it, I had the same reaction I had the first time I saw a Meta ad set auto-optimize creative: wait, why isn't email already doing this?
 
-- **Date:**
-- **Engagement:**
-- **Post Content:**
+Here's the idea: 
 
-<!-- Paste post content here -->
+Your designer stops building emails. They build blocks (heros, body copy, CTAs, product modules).
 
-- **Annotation:** <!-- Add your notes here -->
+Allan sits on top of your ESP and assembles a different email per subscriber at send time. Every element becomes part of a live multivariate test. 
 
-## Post 2
+You've been sending one email to 50,000 people who have literally nothing in common. Allan sends 50,000 versions and lets the data sort it out. 
 
-- **Date:**
-- **Engagement:**
-- **Post Content:**
+Same infrastructure. Completely different outcome.
 
-<!-- Paste post content here -->
-
-- **Annotation:** <!-- Add your notes here -->
-
-## Post 3
-
-- **Date:**
-- **Engagement:**
-- **Post Content:**
-
-<!-- Paste post content here -->
-
-- **Annotation:** <!-- Add your notes here -->
-
-## Post 4
-
-- **Date:**
-- **Engagement:**
-- **Post Content:**
-
-<!-- Paste post content here -->
-
-- **Annotation:** <!-- Add your notes here -->
-
-## Post 5
-
-- **Date:**
-- **Engagement:**
-- **Post Content:**
-
-<!-- Paste post content here -->
-
-- **Annotation:** <!-- Add your notes here -->
+Definitely worth a look → getallan.com
+Topic Tag: Email Performance & Deliverability
