@@ -1,0 +1,3226 @@
+# Lifecycle Marketing: What Is It & How to Do It Right?
+
+- **URL:** https://www.youtube.com/watch?v=P6Nkkj0pjSI
+- **Expert:** Dave Gerhardt
+- **Date Collected:** 2026-06-15
+- **Annotation:** <!-- Add your notes here -->
+
+---
+
+## Transcript
+
+Most marketing teams think about
+
+customer engagement as a campaign. Run
+
+it for a month, try something new, move
+
+on. This session is about what happens
+
+when you stop doing that. Sue Cho at
+
+Monarch Money tested promoting their
+
+referral program during free trial
+
+before users had even become paid
+
+members. Then the numbers came back. 64%
+
+increase in referral shares, 50%
+
+increase in paid subscribers via
+
+referrals. Then she expanded from mobile
+
+to desktop and added another half
+
+million dollars in ARR. Jonathan at
+
+Seamless AI stopped treating customer
+
+engagement like a marketing channel and
+
+built a full 365day behavioral driven
+
+program across email, inapp, SMS, and
+
+live training. They also built an AI
+
+support agent trained on 3,000 hours of
+
+content that's deflecting 55% of support
+
+tickets. And Naomi from Customerio
+
+walked through how their own team uses a
+
+simple feedback email loop to close the
+
+gap between what customers need and what
+
+actually ends up on the product roadmap.
+
+We got into the data behind when
+
+customers are most likely to refer
+
+someone else. What it actually takes to
+
+run an AI agent without going off the
+
+rails today. Why behavioral triggers
+
+beat timebased sequences and how to turn
+
+customer education into a real marketing
+
+strategy. Dan hosted this one. Dan's a
+
+CEO at Exit 5. I was somewhere playing
+
+golf probably. He hosted this live
+
+session and we do them twice a month. We
+
+do deep dives with experts around all
+
+topics in B2B marketing. This one was
+
+all about customer engagement, customer
+
+marketing, lifestyle marketing, whatever
+
+you call it. This is a great
+
+conversation. If you need to get better
+
+at marketing to your existing customers,
+
+don't miss this episode. Here it is.
+
+Enjoy this Exit 5 live session all about
+
+customer engagement.
+
+>> Let's get rolling here. Uh Allison, I'm
+
+going to have you share that slide for
+
+us. Um before we get into today's
+
+session about customer engagement, um
+
+first of all, I have three great
+
+panelists here uh that are going to join
+
+and each present some uh very specific
+
+each is bringing we we spent 30 minutes
+
+together earlier this week and each is
+
+bringing stats uh examples, visuals,
+
+they're bringing all the the stuff that
+
+you want to see about what these
+
+companies are doing in terms of customer
+
+engagement, in terms of uh you know
+
+turning their customers into a
+
+superpower for their business. Um, but
+
+before we get into that, I want to tell
+
+you a little bit of our friends at
+
+Customer IO. Um, they are sponsor for
+
+today's session. They help marketers
+
+turn firstparty data into engaging
+
+customer experiences across email, SMS,
+
+and push. Um, it's built for marketers
+
+who actually care about the craft, not
+
+just blasting the same message to
+
+everyone on the list on a Tuesday
+
+morning. Uh, guilty of doing that in my
+
+past life for sure. uh because uh the
+
+best marketers like all of you who
+
+showed up today um are trying to figure
+
+out customer engagement for growth and
+
+you know that uh not a lot of people are
+
+talking about how to engage your
+
+customers for growth. Um uh they're not
+
+just handling customers off to CS or
+
+moving on. Uh they're treating it like a
+
+real channel. Customer helps you do just
+
+that by unifying your data messaging and
+
+AI into one platform. So every
+
+interaction with your customers is
+
+stronger and more relevant than the
+
+last. They also survived survived man.
+
+Let me take one more sip of coffee here.
+
+They also surveyed 750 marketers,
+
+product managers, growth leaders, and
+
+engineers and put together this great
+
+resource for all of you about how their
+
+teams are engaging with customers right
+
+now. It's the best way to engage with
+
+customers in 2026. They put all that
+
+together in a report for you. It's
+
+linked here in in I don't know where it
+
+is in here. It's linked somewhere in
+
+here. You'll look for it. You'll find
+
+it. Um but if you don't find it, their
+
+team is going to send it to you after.
+
+Um it's a it's a great report. You
+
+should check that out. And with without
+
+any further ado, we will jump into our
+
+first uh presenter. Sue is going to join
+
+uh on the stage here, Sue from Monarch,
+
+and she's going to tell you a little bit
+
+about a referral program and some
+
+surprising data that she got um from
+
+running a test uh fairly recently. So
+
+Sue, welcome. Welcome to uh Exit 5 Live.
+
+Nice to have you here.
+
+>> Hi Dan, thanks for having me.
+
+>> Uh do you want to share your screen and
+
+get right into it? I I like to go right
+
+for it. We're four minutes into the top
+
+of the hour. We're ready to show some
+
+some stats and examples and screenshots
+
+and talk about this flow that you built.
+
+>> Sure. So, the example today that I'm
+
+going to share is for our referral
+
+program. We revamped our referral
+
+program from a credit based system where
+
+we give you Monarch money credits um to
+
+a gift card system. So, we were trying
+
+to figure out the optimal time to um
+
+promote our referral program. And
+
+initially, I think most people would
+
+think like, hey, someone should be a
+
+paid subscriber and have been using the
+
+product a while to be committed enough
+
+to want to refer a another friend. Uh,
+
+we were wrong. Um, we had our data
+
+partners do an analysis of when people
+
+refer the most and shockingly it happens
+
+during trial, especially the first day
+
+of their them starting their trial. So,
+
+I was skeptical, but I went ahead and
+
+tested um an inapp message, which I'll
+
+share one second.
+
+So, we built we built this mobile inapp
+
+message to display to people who have
+
+just started a trial and data also
+
+showed us that they need to have at
+
+least one financial account connected.
+
+Again, just a reminder, Monarch Money is
+
+a financial aggregator app. Um, so if
+
+someone has at least one account
+
+connected and they've started a trial,
+
+it's a good signal that they're ready to
+
+refer someone. Um, and how we built this
+
+flow.
+
+Me one second.
+
+And here's customer IO. Hopefully
+
+everyone can see this. Um, but this is
+
+how I built this in customer.io. uh we
+
+have every event streaming into customer
+
+io via segment. So with the the trigger
+
+of this workflow that I built was a free
+
+trial started trigger. And the next step
+
+you see there's a wait until condition.
+
+I think this is pretty cool. I've been
+
+doing email for about 16 years and I
+
+really haven't seen um a filter like
+
+this. But it says wait until and it
+
+basically listens for a credential sync
+
+to happen. So users will stay in this
+
+state after a free trial starts until
+
+they do this. If they don't, they don't
+
+move um along. Um and we check to see
+
+make sure that they haven't shared a
+
+referral already and then we go back to
+
+showing this in message.
+
+>> So someone signs up for a trial sue of
+
+of Monarch. It's uh it used to be time
+
+based, right? And now it's based on this
+
+condition. It's wait till they hit the
+
+condition. Is that how it one of the
+
+changes? No, we actually had uh no no
+
+referral program during trial. We didn't
+
+want to touch it.
+
+>> Okay. We came from nothing. Yeah.
+
+>> Yeah.
+
+>> And so mission was like can we get some
+
+of these people that are trying our
+
+product or or your first hypothesis was
+
+this isn't going to work because you
+
+need an aha moment for people to like be
+
+a customer and love and find a feature
+
+to actually refer someone. But what you
+
+found was this offer
+
+>> and it was right after they sign up for
+
+a trial to like you know use Monarch
+
+offer to share it with a friend. this
+
+had what was the increase in in lift and
+
+referrals that you got?
+
+>> Uh so we take a very scientific approach
+
+to all of our experiments. We had to
+
+write a hypothesis. We had to do a
+
+basian analysis on how long this will
+
+take. Um so I estimated a 20% lift. The
+
+actual was a 64% increase in referral
+
+share during trial. And that's not all
+
+we look at. We look at the downstream
+
+effects. And the downstream effect was
+
+we had a 50% increase in paid
+
+subscribers via referral.
+
+>> Wow. And and so this is mobile but but
+
+one thing so you were telling about was
+
+like I think you had this discovery
+
+after was it after this initial test
+
+mobile that this might work on desktop
+
+as well.
+
+>> Yeah. So this was a twofold. So phase
+
+one of this was just introducing
+
+referrals to our trial audience which
+
+>> shockingly it worked. So we continue
+
+>> um and then we always try to optimize
+
+what we're running. So we
+
+I think I was just thinking about this
+
+on a weekend as we do and it just I had
+
+an aha moment myself like wait I'm
+
+showing this on mobile except yeah most
+
+of our free trial traffic is coming from
+
+web because now we're trying to push
+
+people to a Stripe payment instead of
+
+Apple and Google so we don't have to pay
+
+the Apple and Google tax. Uh when I
+
+looked at the actual mix, it was 80% of
+
+our traffic is starting their free trial
+
+starts on um a desktop app. So we
+
+decided
+
+to expand uh this inapp message not just
+
+on mobile but also on web. And this is
+
+the customer IO screen that I use.
+
+Choose your destination. They make it
+
+really simple. You just choose your
+
+platform, web, iOS, Android. Obviously,
+
+our devs had to connect all of this and
+
+specify the page that you wanted to show
+
+on.
+
+>> And so, we did it.
+
+Boom. And
+
+>> and that's the desktop version. Yeah,
+
+>> this is the desktop version of the inapp
+
+message or a popup, whatever you want to
+
+call it. Um, and with this, we had some
+
+pretty pretty incredible um results from
+
+this. Uh ultimately we wanted to look at
+
+how many referral like was there a
+
+percentage lift in the referral shared
+
+um as well as downstream effects on AR
+
+and incremental subscribers. So what we
+
+found here was there was a 16% relative
+
+lift in referral shared um and that
+
+ultimately led to I'm sorry let me look
+
+at the numbers.
+
+Yeah, it was a 20% increase in referrals
+
+redeemed and that equated and another
+
+interesting thing that we found was that
+
+users who actually send a referral
+
+during trial have a higher likelihood to
+
+convert from trial to paid.
+
+>> That was a secondary metric that we were
+
+not expecting. And once we did all the
+
+calculations there on the incremental
+
+lift, it equated to about a half a
+
+million ARR lift. Um,
+
+>> wow.
+
+>> Yeah, not expecting that at all. Uh, so
+
+that was a big win for us.
+
+>> That's that's uh that's pretty
+
+incredible. You think about like the
+
+psychology though of like, okay, if I'm
+
+going to tell someone I know about this
+
+app and I'm going to get some incentive
+
+to do it, obviously it's why I'm going
+
+to start by doing it. But if I'm going
+
+to like make that commit, like I'm going
+
+to show someone else like, hey, you
+
+should use this, too. Like you might, it
+
+makes sense. you might be a little bit
+
+more tend towards like, all right, I'm
+
+going to use this or I'm gonna I'm gonna
+
+be more committed to trying out this app
+
+and making it work, which is awesome.
+
+Um, okay, we got a question from Jacobo
+
+Jakabo, I'm sorry if I'm mispronounce
+
+mispronouncing your name. Was this lift
+
+due to the change from credits to gift
+
+cards? And what made your the question
+
+credits in the first place?
+
+>> What made you question, excuse me, the
+
+the the credits in the first place? Was
+
+it a credits or was it more of a
+
+placement of when the the referrals came
+
+up?
+
+>> It was literally credits. It was Monarch
+
+credit so you can use it toward your
+
+next Monarch subscription. We did not
+
+feel that it was strong enough. Our
+
+referral channel wasn't pulling um I
+
+like to think of referral referral being
+
+the top three acquisition sources.
+
+>> Um it wasn't landing there. So uh we had
+
+a huge change in the growth team. We had
+
+a new uh CGO come in and just shake up
+
+the program. Uh the lift wasn't due to
+
+this change because we never tested it
+
+against the trial audience. We never
+
+pushed referrals to our trial audience.
+
+>> Um so the lift was purely just taking
+
+this moment in time that we knew from
+
+data was a good time to promote this and
+
+shooting it off. We actually honestly to
+
+be clear um we didn't see that huge of a
+
+lift when we went from a credit system
+
+to a gift card system. We thought, we
+
+had a hypothesis that people would
+
+prefer a gift card where they can use it
+
+for whatever uh versus Monarch Credit,
+
+but that actually didn't really lift
+
+referrals. What is helping our referral
+
+program right now is the way we're
+
+marketing it.
+
+>> Okay.
+
+Um, other questions, if people have
+
+other questions, I I should have said
+
+this at the top, but feel free to jump
+
+in on the chat panel. I'll check the Q&A
+
+panel
+
+for some reason. I see Jill asked, "What
+
+type of tools do you track to me to uh
+
+for your metrics and measurements?" Uh,
+
+customer.io. Uh, definitely. Uh, but
+
+that feeds directly into Amplitude. I'm
+
+a big Amplitude fan girl. So, for us,
+
+what uh on the marketer side, I build
+
+funnels that say, "Hey, this inapp
+
+message was delivered. How many people
+
+shared a referral?" Which we have as an
+
+event within 7 days. 7-day window is
+
+what we like to look at. Um and on the
+
+data side they use statig to do all the
+
+in-depth statistical analysis.
+
+Yes. And every like we have to wait for
+
+uh statistical significance. So
+
+everything is squeaky clean on the data
+
+front.
+
+>> Other questions? Feel free to jump in
+
+here. Um, Sue, tell us about your
+
+background. Like, how did you Oops.
+
+Sorry, I'm getting a little bit of an
+
+error here.
+
+Can you still hear me, Sue?
+
+>> I can hear you.
+
+>> Okay. Sorry, my I don't know if it's my
+
+internet or or something here, but um
+
+the Tell us about your background. How
+
+did you get into this? How did you end
+
+up doing growth at at Monarch?
+
+>> Oh my gosh. Uh, so I've been doing
+
+growth, retention, engagement, email
+
+marketing work for the past 16, 17
+
+years. Um, yes. So, I've been doing
+
+this.
+
+>> Yeah. Where else have you done up beyond
+
+Mark?
+
+>> Uh, so my expertise is in um
+
+subscription ecom. Uh, my first job, oh
+
+my goodness, I'm going to date myself
+
+here, but my first job um in this
+
+department was
+
+>> in online dating and this was pre-app
+
+online dating. So, a website like e-har.
+
+>> Is that dating yourself? I don't know. I
+
+don't
+
+>> Is it Is it
+
+dating? Um,
+
+>> okay. the era of OkayCid, but I don't
+
+know if anyone knows uh the website J
+
+Date. It's for
+
+>> Yes.
+
+>> Yes. Jate.
+
+>> My wife's Jewish. Yeah.
+
+>> I didn't meet her on Jay Date, but my
+
+wife is Jewish, so yes, I I do know Jay
+
+Date. Yeah.
+
+>> Everyone knows someone who met on Jate
+
+was our was our catchphrase there. Um
+
+>> I like that.
+
+>> Yeah. But they actually
+
+>> someone just said heart emojis. I don't
+
+know who it just showed up on our
+
+screen. Someone sending the heart emojis
+
+to us.
+
+>> Amazing for that. But okay, so you
+
+started in in in e-commerce uh and then
+
+also online dating apps. What what was
+
+your first role there? What were you
+
+doing for them?
+
+>> I was an email operations coordinator.
+
+So that's where I learned all the
+
+technical. By the way, just so you guys
+
+know, I'm a team of one at Monarch Money
+
+and Life Cycle. So I'm the one that
+
+builds all these workflows. I'm the one
+
+that directly works with the data
+
+partners. Um my first job is where I got
+
+most of that experience. I was a
+
+technical coordinator. So they had me
+
+build all the segments, work with all
+
+the engineers. And this is why startups
+
+love me because I can build the things,
+
+I can do the strategy, I can do the
+
+data. Um yeah, never did I think being a
+
+coordinator at J Date would land me on a
+
+16 17 year trajectory of this role. But
+
+I love it. Um before before Monarch
+
+Money, I was doing the same thing at
+
+calm like calm down the calm down like
+
+calm app meditation and stuff.
+
+>> Oh yeah. Yeah. Yeah. I used to use that
+
+for like a minute but Okay. You're at
+
+Okay. So you you have a ton of nonB2B
+
+background in marketing which is really
+
+interesting because we we bring a lot of
+
+people with B2B marketing background to
+
+us. And so, um, uh, this this type of
+
+stuff is, I think, what a lot of beauty
+
+marketers or some group obviously who
+
+are here today want to know more about,
+
+especially like on the push and the, you
+
+know, SMS and email side. So, it's
+
+really awesome to to hear a little bit
+
+about your background and and some of
+
+your experience there.
+
+>> Awesome. Thank you, Dan.
+
+>> Cool. All right. There's no further
+
+questions for Sue as of now. If you do
+
+have a question, Sue is going to be
+
+backstage. She will answer your
+
+questions in chat. Um, a heads up my if
+
+I lose anybody or I can't click anything
+
+on my screen right now. I'm not sure and
+
+I don't want to lose you all. So, I'm
+
+just going to keep going here. Um, if uh
+
+Allison could send up I believe Jonathan
+
+is going to go next. Um, we will keep
+
+rolling here. And if for some reason I
+
+disappear, I apologize for that. I'll
+
+get back as soon as possible. But it
+
+seems to be working for now. So, um,
+
+we'll just keep it running and we'll
+
+have Jonathan join here for a second.
+
+Um, and Jonathan's gonna talk about a
+
+couple cool things. Johnson, uh, we
+
+talked yesterday or we talked th
+
+Wednesday, you shared a very specific
+
+example and a very specific sort of like
+
+a couple of different sets of stats and
+
+and and things you wanted to show and it
+
+was very clear-cut. And then this
+
+morning, Jonathan sent us like five
+
+slides with like 10 different charts,
+
+all these different graphics. It looks
+
+like he spent all night working on an
+
+update because he wanted to show you
+
+everything he knows. And Seamus is a
+
+very interesting business. He's gonna
+
+tell you a little bit about it.
+
+Jonathan, thanks for for joining.
+
+Excited to kind of go through some of
+
+the stuff with you today. Yeah. No, I
+
+appreciate it. Uh recognize a lot of
+
+folks in the chat as well. So really my
+
+goal here like this webinar uh is all
+
+about not only how to acquire customers,
+
+right? We we do that every day, but how
+
+do you keep customers uh and the
+
+marketing playbook that goes behind
+
+that? So at first I was going to share
+
+like one strategy that works for us. And
+
+then I thought, you know what, why don't
+
+we take a couple plays out of the
+
+playbook. So, my goal here is that maybe
+
+one of them resonates with you and you
+
+can take it back to your uh take it back
+
+to your desk and maybe it'll work. Who
+
+knows? Uh but I'm here to answer
+
+questions. So, I'm going to go through a
+
+few plays uh that we use at our own
+
+organization. Some context. Uh this will
+
+really help too. So, when you're seeing
+
+this stuff, you're like, "What?" Um team
+
+of 12, not a team of one. Sue, props to
+
+you, by the way. That is some awesome
+
+work that you're doing over there. Um,
+
+we love Segment Amplitude and our
+
+customer IO stack as well for real. Uh,
+
+they're doing some really cool things.
+
+Um, but my team focuses on end toend
+
+marketing. We focus on the entire
+
+customer journey and a little bit of of
+
+more. So, we have your classic demand
+
+genen, we've got content, we've got
+
+creative, I have a dev, but uh, we also
+
+have customer education that lives on
+
+the marketing team.
+
+>> And I'll explain a little bit in terms
+
+of why that's important. Product
+
+marketing is also absorbed by the
+
+marketing team. We also handle
+
+recruitment marketing. So, we're not
+
+only recruiting for uh new users and
+
+trials and customers for the platform
+
+and the software. We're also recruiting
+
+for the people that are going to work
+
+for us to help us get more of those
+
+things as well, including retaining
+
+customers. So, we have our hands full,
+
+but um that's what you do. You take the
+
+opportunities as they are presented to
+
+you. So, a little bit different from
+
+organizations that I worked with in the
+
+past. And what's also different is the
+
+way that we're compensated. Um, however
+
+you want to put it, MBO, bonus,
+
+commission. Um, we're compensated on uh
+
+three pillars. Net new revenue makes
+
+sense. Um, net revenue retention or NRR,
+
+which is like revenue retained over a
+
+period of time. You want to try to get
+
+that as high as possible. Ultimately,
+
+more than what you were originally
+
+getting in the year prior. and um and
+
+profitability, right? Profitability of
+
+the business. We've got one of the
+
+larger line items across the org. So,
+
+the money and budgeting is part of my
+
+role, uh including the activation of
+
+campaigns like I'm about to share with
+
+you. Um and then our motion, this is
+
+kind of what's a little bit different
+
+from orgs that I've worked with at the
+
+past. We have a million users on the
+
+platform. We have 18,000 paying
+
+organization and about 40,000 paying
+
+users from those organizations. So um
+
+things move very quickly uh at seamless.
+
+Uh our velocity is very fast. It's a
+
+premium motion. A lot of data comes in
+
+and out all the time. And the really
+
+cool thing about that is that we're able
+
+to see things happen very quickly when
+
+we test for better or for worse. So I'm
+
+going to share
+
+>> million users. You got got statistical
+
+significance all day long. Right. It is
+
+and and um like I mentioned it sometimes
+
+works in our favor and sometimes you
+
+know what you learn very quickly and
+
+both of those things are a gift right
+
+>> so I'm on my two screens here I'm going
+
+to pop mine up and kind of go over a few
+
+of the plays that work for us
+
+share let's go with the presentation
+
+share screen we go I promise I I
+
+practiced this earlier I promise
+
+and then we'll go to
+
+Perfect.
+
+So, here we go. Let's share some plays.
+
+Here we go. Oh,
+
+we've got our charts, right? We're going
+
+to go back one. So, because things are
+
+moving so quickly throughout the funnel,
+
+right, we have tens of thousands of
+
+users that are leveraging the platform
+
+every week. We're not only focused on
+
+just the top of the funnel. Um, we're
+
+also focused on retaining customers,
+
+growing customers, and of course in
+
+partnership with sales and CS. This is
+
+just a little bit of a snapshot. And
+
+really the point that I wanted to uh
+
+make here is that when I came on top
+
+when I came to the organization almost
+
+six years ago, um, you know, we we did
+
+things like most orgs I've worked with
+
+in the past do when you acquire new
+
+customers, new users, and such. you
+
+throw them over the fence and let CS
+
+deal with it, right? And um that was
+
+okay, you know, for a very very short
+
+period of time. Um but the obvious, you
+
+know, we find out the obvious, right?
+
+Marketing's winning, CS isn't winning or
+
+CS is winning, marketing is not winning.
+
+You always want to win as an
+
+organization, right? And because of
+
+that, um you know, we're all sharing the
+
+same type of goals across the board.
+
+That's why we have NR and profitability
+
+as well as net new. So we stopped
+
+treating uh customer engagement like a
+
+campaign. This was one of the big
+
+takeaways that uh helped impact our
+
+organizations. We we went away from like
+
+campaign, let's do this for this period
+
+of time and then stop and try this new
+
+thing and try that for a period of time
+
+and stop and really went for a full
+
+365day
+
+um uh trigger or let's pay behavioral
+
+driven multi-channel campaign. So, we
+
+stop thinking of things like this month
+
+we're going to do G2 reviews, right?
+
+This month we're going to do uh
+
+testimonials or it's case study week and
+
+it's just baked into the entire
+
+experience that you have uh with our
+
+platform today. And what does that mean?
+
+It means right message, right time,
+
+right place, right? It's a combination
+
+of email, it's a combination of inapp,
+
+it's a combination of SMS and even
+
+personalized outreach and training.
+
+It's a lot, right? But really what we do
+
+and uh customer IO makes that super
+
+easy. Um is that people are getting
+
+those messages when they're engaging
+
+with certain parts of our platform,
+
+right? Uh and I'm going to go into what
+
+some of those parts are and what some of
+
+the results are. You know, one of the
+
+big things for that we realized um you
+
+know, years back is uh users and
+
+customers would come on the platform and
+
+they'd kind of drop off over a period of
+
+time and there was a lot going on within
+
+that period, right? We kind of dropped
+
+them into the platform and said, "Hey,
+
+tool tips, those are fun. Just go go on
+
+your own way." And um we had a lot of
+
+support tickets, a lot of them. and all
+
+these little squiggly lines you're
+
+looking at here. Um,
+
+managing those support tickets is not
+
+scalable at all. So like why is
+
+marketing dealing with this? Because we
+
+are tasked with driving engagement in
+
+the platform as well, right? We want
+
+people to use the product. We want them
+
+to come back. We want them to find
+
+value. Aha moment, whatever PLG acronym
+
+you want to use. Um, and we just
+
+couldn't handle human driven support and
+
+training anymore to a degree. So um what
+
+we built was uh an agent right I think
+
+you hear a lot about these days but this
+
+has been up for about uh two years
+
+almost two years now. So in other words
+
+we created an automation
+
+um chatbot agent if you will using voice
+
+flow and a combination of customer IO
+
+for some of the inapp interactions as
+
+well as some of the email interactions
+
+to literally answer any possible
+
+question there is. you know, in the
+
+past. We you can see the numbers here.
+
+We have what do we have there? Over
+
+7,380
+
+um conversations that have been
+
+mitigated via chat, right? It's a lot of
+
+conversations
+
+uh in this period of time. And those
+
+conversations would have ended up
+
+becoming Jira tickets, which is lame.
+
+Hate, you know, you might love Jira
+
+tickets, right? you send 8,000
+
+customers, 7,000 customers to open a
+
+ticket to get an answer to a question
+
+that uh is very easy to answer and
+
+you're going to end up losing customers.
+
+They're going to turn off your platform.
+
+They're just not going to be as
+
+interested as they would be otherwise.
+
+So, little picture of a little chatbot
+
+Sarah there. Um what makes this
+
+powerful, it's not like, hey, I built an
+
+agent in chatbot. Let's see how it goes.
+
+Is that we invested into this strategy.
+
+We have an a full-time um AI engineer
+
+that works specifically on our chatbot
+
+as well as some of our other automations
+
+and workflows, but training this thing
+
+and keeping it trained and on task and
+
+not hallucinating is almost a full-time
+
+job. And I think you're starting to hear
+
+that more and more as people are
+
+adopting it for a longer period of time.
+
+You know, agents and AI, right? Um you
+
+can't just let this run loose. You have
+
+to train it. So, it's trained with over,
+
+you know, 3,000 hours of our training
+
+videos, our articles, our entire
+
+knowledge base. It constantly has to be
+
+retrained, refreshed. Um, with the
+
+amount of conversations that we get,
+
+there's always a new question that it
+
+can't answer every day. We don't let it
+
+run off the rails. We have guard rails
+
+for it so it doesn't try to make stuff
+
+up. And trust me, people try to do that
+
+all the time, especially when it comes
+
+to pricing. Not going to let it happen.
+
+Um, but the results so far, I mean,
+
+we've seen a deflection rate on our on
+
+our uh tickets by about 55%. For us,
+
+it's meaningful, right? That's thousands
+
+and thousands and thousands of tickets.
+
+But tickets aside, it's thousands of
+
+customers that couldn't get the answers
+
+to the questions that they wanted. Maybe
+
+they were in the knowledge base, but
+
+they didn't want to go through the
+
+knowledge base. Who does, right? We're
+
+able to provide an experience that keeps
+
+them on the platform to this day and
+
+helps them move on. for higher level
+
+escalations. Of course, we have people,
+
+right? But this was a huge win for us.
+
+Uh, and it was a big bet for us, too.
+
+Um, you know, we wouldn't we didn't
+
+really know if this was going to be a
+
+great solution or not. This happened at
+
+a time where at least I was a little bit
+
+skeptical about uh having uh you know,
+
+AI answer questions instead of people.
+
+But, uh, it's been a fantastic job so
+
+far. Jonathan, if I could ask one quick
+
+followup question and I am going to take
+
+the bait because you mentioned something
+
+about AI and of course we can't do
+
+anything without talking about AI. Your
+
+AI engineer, what is their day-to-day
+
+their training their full-time? I mean,
+
+they've got plenty obviously of data to
+
+look at, but I'm kind of just maybe give
+
+us a little bit of like a what is the
+
+day-to-day or kind of a weekly, you
+
+know, schedule look like for them? like
+
+what are they actually doing with is it
+
+is it like you said it's coaching it's
+
+obviously looking at the data but I just
+
+I' I'd love for everyone to hear a
+
+little more about what that AI engineer
+
+actually does on a day-to-day basis for
+
+>> that's uh our guy thief shout out
+
+southeast uh at seamless um
+
+a lot so part of it is the training of
+
+the bot right that's that's relatively
+
+easy a lot of it is analyzing the
+
+questions the answers that are coming
+
+through on a daily basis. Yes, some of
+
+that could be solved with AI, but you
+
+can't quite trust AI all the way. So,
+
+it's a lot of manual intervention in
+
+terms of what's prompting the answers.
+
+How do we readjust the prompts or
+
+readjust the answers based on the
+
+uniqueness of prompts? Um, as well as he
+
+he's also working on some other projects
+
+for us related to uh automations and
+
+workflows within NAD, some of our AI
+
+capabilities within our app. But this is
+
+a big part of his job because uh it's
+
+servicing so many of our customers every
+
+single day and it's the primary way in
+
+which you get support inside of our
+
+platform.
+
+>> Totally. And then Jonathan when we were
+
+talking about this before I think are
+
+you going to talk about training next is
+
+that I want to jump ahead if you want to
+
+talk a little bit about that.
+
+>> Let's see.
+
+I sure am.
+
+>> Yep. Okay. All right then. I'll I'll
+
+just shut up and let you talk us through
+
+this one.
+
+>> All of this is like
+
+at other organizations, right? I
+
+wouldn't really be diving into things
+
+like support and inapp experience and
+
+training, right? My job used to be, this
+
+was a while back now, you get MQLs and
+
+you throw them to sales, right? And then
+
+you're done. Then they throw it over to
+
+CS. Good luck.
+
+>> The good old days.
+
+>> Good old days. I do miss. No, I'm just
+
+kidding. Um so we took that campaign
+
+type of strategy or campaign sort of
+
+point of view on treating customers.
+
+Turn that into a strategy. The same
+
+happened with customer education. So we
+
+turn that from uh hey there's our
+
+knowledge base or here are some videos
+
+you can watch which by the way we have.
+
+Anybody can watch any video on demand.
+
+We have tons of training in the app.
+
+It's all good. We have courses cool
+
+stuff. Um, but at the end of the day, we
+
+found out two things. Um, there's a
+
+subset of customers that just want to be
+
+heard. They just want to get feedback
+
+from a real person. And I can empathize
+
+with that quite a bit. If you've ever
+
+gone through a drive-thru lately and you
+
+got the robot, like, sure, the robot can
+
+take the order, but I'd rather tell a
+
+real person that there's just something
+
+there that I don't quite trust. So, that
+
+aside, uh, we also started treating
+
+customer education as a marketing
+
+strategy. what it really what it comes
+
+down to. It's found two things. One,
+
+they want to talk to real people. Two,
+
+um,
+
+they want to be taught how to do the
+
+things that they need to do in order to
+
+do their job better. That means more
+
+than how to use Seamless. That means
+
+what are sales strategies that are
+
+working today? What are marketing
+
+strategies that are working today? Uh,
+
+having guest speakers on sometimes to
+
+talk a little bit about their
+
+experience. So they're not just hearing
+
+it from us, they're hearing real life
+
+use cases from customers and sometimes
+
+not even customers. We want to bring in
+
+somebody that is uh a trainer in cold
+
+calling. We do that too. Um but we have
+
+live trainings and we started that
+
+around the same time about two years
+
+ago. Uh to date we've done 4,982
+
+customers trained and we do our live
+
+trainings about four times per week.
+
+Sometimes a little less, sometimes a
+
+little more depending on the calendar,
+
+right? But we have trained a lot of
+
+customers. Um, and uh, anybody can take
+
+this, right? It's not just for new
+
+customers. It's not just for enterprise,
+
+right? Um, it's for anybody. If you've
+
+been on the platform for eight months,
+
+you can take a training anytime you
+
+want. If you're a user and you haven't
+
+paid, you can take a live training with
+
+us anytime you want. It's all self-s
+
+serve, up to you. Real people, uh, real
+
+interactions, lots of Q&A, different
+
+themes per day sometimes. You can kind
+
+of see that in our little notion tracker
+
+backboard. Um, we got some on intro, we
+
+got some on our features. It's a big
+
+mix, but uh, it's been another huge win
+
+for us.
+
+>> And I think Jonathan, you had said once
+
+you got this program live, there was a
+
+drop off before after three months.
+
+There's a couple questions I want to get
+
+to in the chat. I'll get to those in
+
+just a second, but there was a drop off
+
+before and then once you implemented
+
+this program, you saw that drop off
+
+start to flatten out. Is that correct?
+
+>> Yes. So we had customers that came in
+
+come out uh of our of our engagement
+
+i.e. out of our app. Um the average for
+
+customers was about three months and
+
+then it would decline and then it would
+
+kind of stay steadily throughout the
+
+period. Meaning they used to be weekly
+
+users, now they're monthly users. Like
+
+we don't necessarily that's not a good
+
+sign if you're uh looking at your uh
+
+your customer engagement, right? It it's
+
+a potential for churn.
+
+>> Yeah. especially, you know, a platform
+
+in the space that we're in. Um, so yes,
+
+uh, as we started to do more live
+
+trainings, hearing our customers out,
+
+providing them with optionality to meet
+
+with real humans, um, as well as, uh,
+
+easy ways to get questions answered
+
+quickly. Um, that has definitely helped
+
+our business out pretty tremendously.
+
+And I'll have a have a a grand reveal of
+
+how it's hitting the bottom line as
+
+well.
+
+>> Perfect. All right, we won't we won't
+
+ruin that. a couple questions that came
+
+up. One from Richard kind of you kind of
+
+just spoke to this because it was I
+
+think it was mostly about the first
+
+three months of their of their journey
+
+with you. But to to bring up Richard's
+
+question, uh curious about your approach
+
+to customer engagement plus education at
+
+the start of a customer's life cycle
+
+versus existing. Uh finding finding
+
+people to join is easier said than done.
+
+So maybe that's a little bit of a
+
+secondary question there, but John,
+
+maybe you could talk to that a little
+
+bit for us.
+
+>> Yeah, none of this is easy. So I hope
+
+it's not coming off that way, right?
+
+Like we don't have full capacity on our
+
+webinars, but um it's it's marketing
+
+within itself, right? It's the marketing
+
+inside marketing. So we have to market
+
+our training, right? People aren't just
+
+going to naturally come. We love when
+
+they do, right? That's a picture of, you
+
+know, a button in the app that they can
+
+always get access to if they want to.
+
+But ultimately we have to market
+
+ourselves and market our training inside
+
+the platform as well as throughout their
+
+journey whether it be on phone calls
+
+with CSMS if they have one through our
+
+um marketing automation uh workflows you
+
+know customer IO and app. We also use
+
+some behavioral triggers too for finding
+
+and we use Amplitude by the way. Awesome
+
+for finding that people are you know um
+
+rage clicking for lack of a better term
+
+on a certain area of the app. maybe
+
+they're hitting these filters over and
+
+over again. We can cohort those
+
+customers and offer them a live training
+
+uh on the spot in the platform. So,
+
+we're able to identify where we think um
+
+users and customers are finding
+
+friction. But yeah, we got to market it.
+
+It's it's not easy. I see the other part
+
+of that too versus existing.
+
+Start is easier than existing. Um start
+
+they have you have all their attention,
+
+right? first month of usage is and
+
+engagement is like 98%.
+
+It's so high and it's just that over
+
+time if you're not constantly getting in
+
+front of your customers, you're not
+
+constantly providing value,
+
+um they're going to drop off. And you
+
+know what? They're going to drop off
+
+anyway. They're not going to be 97%
+
+engagement for the next 12 months, but
+
+you want to mitigate that as much as
+
+possible.
+
+Uh let's let's jump a I'll have uh
+
+Jonathan respond to a couple more of
+
+these questions in in the chat after we
+
+go through it. John, let's go to the
+
+next I want I want your grand reveal. We
+
+want to see some of the grand. Okay,
+
+real quick here. We also drive growth
+
+plays through to for higher net revenue
+
+retention. If you're not doing this
+
+already, identify some of your higher uh
+
+higher value growth accounts um
+
+enterprise accounts, whatever you may
+
+want to call them. This sounds pretty
+
+elementary and it kind of is, but it's
+
+it's really lowhanging fruit. Uh we
+
+market to the users of organizations
+
+that currently haven't signed up to the
+
+platform. That's all this is. And this
+
+works really well for uh larger
+
+organizations, segmented organizations,
+
+buying committees that you want to
+
+market to. I mean, you you run the list
+
+of users that um you know, we happen to
+
+be a data platform, so we benefit from
+
+that. But you find the folks that you
+
+want to be part of the organization that
+
+currently is on your platform and you
+
+market to them wherever they're at,
+
+right? Get them on board. Show them why.
+
+Speak to them differently than you would
+
+a net new customer. It's going to win.
+
+For our growth accounts, it's it's
+
+helped increase 32% uh in NRR uh in 2025
+
+doing that. These are big accounts by
+
+the way. I'll preface that.
+
+>> Yeah, that's
+
+>> results over time.
+
+I am talking a bit. So, I'm going to
+
+wrap it up here. Results over time,
+
+right? Um, we're looking at the very end
+
+of the funnel here. Are we saving more
+
+customers than we're losing? And yeah,
+
+we we go through a lot of customers,
+
+right? Just in general, we bring in tens
+
+of thousands of users per month. We
+
+bring in, you know, thousands of demos
+
+held per month. So, we see a lot come
+
+through. 2024 to 2025 year-over-year uh
+
+change in cancellation cases decreased
+
+by about 24%.
+
+Uh that's big for us. It's people that
+
+say, "You know what? Uh I don't want to
+
+cancel," which is awesome. They want to
+
+renew. We want that. Um and then auto
+
+renewal removed, uh about a 19.9%
+
+decrease. And then overall, it's just
+
+money in the bank to the organization. I
+
+know that's a lot of charts to look at,
+
+but at the end of the day, this is the
+
+net revenue retention number. This is
+
+the retention number, the IBIDA number,
+
+right? We if we maintain more customers,
+
+we're going to have a better chance of
+
+profitability without having to market
+
+to net new um prospects. So, it's been a
+
+win for us. Couple plays. Hope some of
+
+it was helpful. Um understand it could
+
+be a little unique, but happy to share
+
+anything else in the chat. Yeah, based
+
+on the number of questions, Jonathan,
+
+there's there's definitely interested in
+
+in what you just showed. So, uh
+
+hopefully you can answer a couple of
+
+those. Hopefully, at the end, we also
+
+will bring everybody back up on stage
+
+and we'll try to answer some of the
+
+questions. I know there was a question
+
+for Sue that came in earlier. Um we can
+
+try to answer that live at the end. But
+
+Jonathan, thank you very much. We're
+
+going to have you jump backstage for a
+
+minute. Uh and then we have Naomi jump
+
+on stage. Naomi has a really cool role.
+
+Um she works for Customer I.O., but
+
+she's kind of like the power user of
+
+customer IO, the product at Customer
+
+I.O. And and Naomi, you have a pretty
+
+interesting background, too. Maybe we
+
+can start there. A little bit about your
+
+background, what you've done leading up
+
+to your your your employment at
+
+customer.io.
+
+>> Yeah, I'm a career life cycle marketer
+
+myself. Um, which is actually I've got a
+
+slide that kind of covers it in in big
+
+words, so I'll throw that up. Um, and
+
+then I'll I'll just talk through some of
+
+my career. So, yeah, I've been in email
+
+very similar to everyone in the
+
+industry. I fell into it and I have not
+
+been able to leave it. I don't know why
+
+I like it so much. I just really enjoy
+
+it. But I've been an email since 2015
+
+uh about a year before I even joined
+
+customer.io as an employee. I had a call
+
+with uh one of the senior product
+
+leaders just talking about my love of
+
+email and how I'm vocal in the industry
+
+and he was like, "Well, if you ever want
+
+a job, like come chat to me." I was
+
+like, "I don't know what I would do at
+
+Customer.io. I'm I'm a marketer that
+
+likes to do email." And then about a
+
+year later, I joined the team. And it's
+
+really cool for me because I really
+
+enjoy the community that we sit in as
+
+email life cycle growth marketers. I'm
+
+an enduser of the tool and then that
+
+combination I can kind of help shape the
+
+road map based on what people like us
+
+need. So yeah, I love my job. I love
+
+what I do here. And I'm technically my
+
+title is a product marketer. Uh although
+
+I'm still like hanging on to the title
+
+of life cycle marketer for dear life not
+
+clawed away from me because I still
+
+believe that a lot of what I do is life
+
+cycle but instead of looking at how do I
+
+generate more top of funnel or how do I
+
+you know create sticky retention I'm
+
+like
+
+>> how do I get people to use the product
+
+and what can I do to get feedback on the
+
+product. I'm a horrible salesperson. I'm
+
+like, if you want to use the tool, you
+
+can use the tool, but I want to know if
+
+you like using the tool and if you don't
+
+like using it, what we can do better.
+
+And so,
+
+>> yeah,
+
+>> thrive in my position.
+
+>> When I joined Drift, Naomi, they gave me
+
+a product marketing title because I was
+
+a customer of Drift before I joined.
+
+>> And they did the same thing where I had
+
+never had a product marketing title.
+
+Yeah. And they were like, well, we don't
+
+really know what to do with you, but you
+
+can do a lot of stuff. You know, the
+
+product, we think you're going to do
+
+like marketing the product, so we'll
+
+call you a product marketing manager.
+
+That's kind of I can I know that
+
+experience. Yeah,
+
+>> that's pretty much exactly what happened
+
+to me, too. I was like, I don't know
+
+what product marketing
+
+>> Yeah.
+
+>> does. I know life cycle and I know email
+
+and I know this community and they're
+
+like, here's a product marketing title.
+
+I'm like, okay. All right. Here we go.
+
+>> So, let's do it. So, so you're actually
+
+doing some of these these these
+
+campaigns you were showing us earlier
+
+the week um some of the types of
+
+engagements and campaigns you're running
+
+for customer.io. This is like how the
+
+sausages is made behind the scenes here.
+
+like it sounds like you have a couple
+
+examples you wanted to show us today.
+
+>> Yeah. Yeah, I've got a couple examples
+
+that I want to walk through and um again
+
+just hitting home that even though my
+
+title isn't life cycle or email, I'm
+
+still very much so a life cycle marketer
+
+of sorts. I'm encouraging adoption of
+
+the platform. I sit within the marketing
+
+team. I have very specific things that I
+
+want from the people that I email or
+
+send inapp messages to. Uh, and just to
+
+give a quick look of like what the team
+
+kind of seems like at at customer.io.
+
+So, we have a very large marketing team.
+
+I think in total there's like 30 or 40
+
+of us now. When I joined there was only
+
+nine or 11. It was a much smaller number
+
+when I joined. Um, four years ago and
+
+now we're a much larger team. But on the
+
+team there still is that traditional
+
+like growth marketing life cycle
+
+function. And this team of five
+
+marketers, five growth life cycle
+
+marketers, they own onboarding, they own
+
+awareness, they own the upsell, they own
+
+like referral techniques. They're there
+
+really the core foundation of um the
+
+traditional role of a life cycle
+
+marketer. They're they're executing on
+
+that. And then I am one of five product
+
+marketers. And we each kind of have our
+
+own area of specialty. I come from a
+
+background of loving email marketing
+
+specifically and so with that I own uh
+
+our design studio which is kind of our
+
+email editor and marketing that and then
+
+with kind of this new adoption of AI in
+
+our industry uh I have also decided to
+
+own kind of like our AI features and how
+
+we deliver them to our audience base. So
+
+those are kind of like my areas of focus
+
+within the organization. But of course
+
+there's a million other features of of
+
+customer.io. Uh and as product marketers
+
+we own launches and education and
+
+awareness for those product areas. So I
+
+sit kind of in that that second column
+
+there. Now I want to walk through um two
+
+examples specifically but what I believe
+
+to be customer engagement is yeah it's
+
+awareness it's activation it's top of
+
+funnel it's retention but it's also how
+
+you find out if what you built is
+
+working and I love like a small startup
+
+environment I thrive in a really
+
+fast-paced motion um where the CEO is
+
+like on calls with customers and you're
+
+learning about what works but at some
+
+stage I don't know like what stage of
+
+user base it occurs that like feedback
+
+loop between the CEO that shapes the
+
+product direction or the product team
+
+shaping that product direction at some
+
+level of scale
+
+that feedback loop almost breaks at
+
+companies and that's where Jira tickets
+
+start to pop up and zenes tickets start
+
+to pop up and there's not really this
+
+connection point between the enduser
+
+experience and the marketing team that's
+
+talking about these features or like the
+
+product team that's you know reading
+
+these support tickets. You have to play
+
+telephone in order to get that. And I as
+
+an individual like refuse to do that.
+
+I'm like as a marketer I want people to
+
+reply to me like please reply. Makes my
+
+day even if someone's like I'm
+
+frustrated. I'm like but why? Tell me
+
+more. Uh and so the two examples that I
+
+want to walk through um are going to
+
+kind of talk through how I implement
+
+touch points to drive that feedback
+
+loop.
+
+The first is our MCP server. So about a
+
+year ago at customer, we launched our
+
+MCP server. If you're not familiar with
+
+what an MCP server is, I view it as just
+
+like a new term we use for integrating
+
+AI tools with products. Um, so you can
+
+integrate an LLM such as Claude or
+
+Cursor or Chad GPT with tools like
+
+customer.io or notion. And now 90% of my
+
+workday as a marketer I just spend in
+
+claude and I use an MCP server to create
+
+new pages in notion. I'm like create
+
+this page on why customer has a good
+
+product and I will use this page to
+
+communicate out with users um and share
+
+it widely internally. Um so that MCP
+
+server is essentially that connection
+
+point. But the one thing with launching
+
+an MCP server is I can't necessarily see
+
+what our end users are doing in Claude
+
+or Cursor or ChatgBT. I can't see what
+
+they're commanding that LLM to do inside
+
+of customer IO. And so I really need
+
+kind of a a life cycle marketing touch
+
+point to be like how is your experience
+
+since I have no visibility into it like
+
+through backend events um or conversion
+
+events. Let's say I need them to reply
+
+back to me. So what I did is I'm just
+
+going to jump over. I have as soon as an
+
+admin turns on the MCP server in a
+
+user's account, I have individuals enter
+
+into this onboarding flow. So after 25
+
+minutes, usually I would kind of expect
+
+action to be taken quite quickly between
+
+enabling it as a feature and an enduser
+
+going to connect to something like clott
+
+cursor. I reach out to users after 25
+
+minutes and I have this simple like
+
+let's get you connected to some LLMs uh
+
+to kind of guide that process and this
+
+first email looks like such. So I send
+
+this email out and I'm like welcome to
+
+our MCP server. You are basically part
+
+of this group now that's using MCP to
+
+connect to Claude and Chat GPT and
+
+cursor and here's like the setup guide.
+
+So, instead of having to comb through a
+
+bunch of our docs in order for you to
+
+quickly access this or connect it, um,
+
+here's the information right in front of
+
+you. And it's interesting because I
+
+actually get quite a lot of responses
+
+back either being like, "Ah, I was able
+
+to connect this super quickly. Thanks so
+
+much." Or like, "Hey, what other prompts
+
+do you have that I could use with the
+
+product?"
+
+And that type of information is either a
+
+signal that things are working really
+
+well for me, which I'm like, perfect, we
+
+don't need to change anything here, or
+
+hey, these questions that I'm getting
+
+back from end users, I should use to
+
+shape the next touch point or just
+
+reintegrate into this first one because
+
+people are having these questions right
+
+off the bat. So,
+
+this is my first touch point. Jumping
+
+back to kind of what this workflow looks
+
+like. Um, up until yesterday, I had a
+
+second email go out after a day, but I'm
+
+working on redoing this one. So, it's
+
+been paused since then. But then I have
+
+this third email that basically connects
+
+to the user asking them how their
+
+experience was. Um, kind of after a 3 4
+
+day period.
+
+So, I jump into their inbox again and
+
+all replies go to me. They do not go to
+
+a Zenesk ticket. They go to me because I
+
+am like a megaphone internally sharing
+
+any questions and concerns with the
+
+product team. Of course, if like a bug
+
+pops up, I'll share it with our um like
+
+support team that can help debug. Um but
+
+for the most part, I just want to know
+
+like real marketer feedback of what they
+
+want and what they're using. And I find
+
+actually the way that we've templated
+
+out this feedback uh results in quite a
+
+lot of responses. People will literally
+
+take this and then write in like a
+
+tabbed format underneath answering my
+
+questions, which is super helpful for me
+
+to take that feedback back to the team.
+
+Um the ways in which I've been able to
+
+take this uh kind of response to whether
+
+it's the first email or this third one
+
+or even the second one we had it launch
+
+um is we initially launched our MCP
+
+server with only read capabilities about
+
+a year ago. Uh so you could ask it for
+
+uh data around your campaigns, your
+
+broadcasts. You could ask it for
+
+information on a user profile. You could
+
+say based on this specific user, create
+
+like a lookalike audience for me. Who
+
+should I be targeting based on what this
+
+really successful user does? But the
+
+create capabilities weren't there yet.
+
+So, we have been behind the scenes
+
+chipping away creating create
+
+capabilities so that individuals will be
+
+able to create broadcasts and campaigns.
+
+Hopefully, we're launching it around
+
+next week. Um, but this is really what
+
+we've heard in response. people are like
+
+the read capabilities are great but we
+
+want to create um and so if it wasn't
+
+for feedback like that we would just be
+
+like it's silent everyone loves it and
+
+so we don't need to do anything more
+
+here we can just let the feature be uh
+
+and carry on our merry way so feedback
+
+helps shape our product
+
+>> I love that a a company of your scale
+
+Naomi is one email is still the crown
+
+jewel communication tool like thank you
+
+for validating that for the 11,000th
+
+time that we've done one of these
+
+sessions or a session, any session we've
+
+done, like email is still our number one
+
+go-to channel, even with, you know,
+
+everything else that's out there.
+
+>> Um, and then two, um, you're, you know,
+
+you're looking for just replies like to
+
+an email, you know, like you beautifully
+
+HTML like it's not like click here, go
+
+here, fill out this form or take this
+
+survey or let's get this data point.
+
+Like you're looking for the fastest
+
+feedback loop possible, which is like
+
+and also it goes all to you directly,
+
+right? you're taking it in, ingesting
+
+it, and you're the engine for helping
+
+take that data and analyze it and push
+
+it within the team. Like, I just I think
+
+that's I hopefully the rest of the
+
+audience here is picking up on that,
+
+too. But customer is a very successful
+
+company and a pretty big 35 people on
+
+their team on their marketing team
+
+alone.
+
+>> They're looking for email replies for
+
+for data. We're letting humans kind of
+
+analyze it and get that fast feedback
+
+loop. I think that's a really good
+
+important thing to call out here.
+
+>> In in other roles, too, this would be
+
+the most unsuccessful email ever because
+
+there is no clickthrough rate.
+
+>> Yeah. Once you're through like
+
+unsubscribing or like going through a
+
+social link in the footer, my
+
+click-through rate is so low because
+
+there's nowhere to click.
+
+>> Yeah.
+
+>> But I have to shift my like success
+
+metrics when I'm looking at the results
+
+of this email and be like, I got this
+
+many replies and 10% of them were
+
+feature requests, 10% of them were
+
+praise, like categorizing it that way
+
+and like look at how this feedback then
+
+shaped the rest of our product. And I
+
+like I love it. I love it.
+
+Um, I want to run one through run
+
+through one more example. I know we're
+
+almost at time here, but I'll be quick.
+
+The second uh kind of email outreach
+
+that I have instrumented as part of my
+
+role as a PMM is uh helping shape our
+
+beta programs. And I really enjoy
+
+features that are in beta because you
+
+get more feedback than you have ever
+
+before. It's almost this like contract
+
+where you're saying this thing is in
+
+beta and we want to hear you yell about
+
+its imperfections
+
+and the changes that you want because
+
+we're still in this phase where things
+
+could drastically change. Um, after you
+
+launch something and you make a big
+
+splash about it, I find frustrated
+
+users, they get grumpy or they turn
+
+quietly and they don't communicate why.
+
+But if something's in beta, people are
+
+going to be like, "Hey, I know this was
+
+recently released in beta, and here's
+
+what I need." Like, "This is a bug. I
+
+understand it's in beta." Or like, "Hey,
+
+are you are you still working on this
+
+thing? Like, I really want this as like
+
+a feature request."
+
+And so, what we have is
+
+a year and a bit ago, we launched Design
+
+Studio, which is essentially uh in the
+
+lefthand nav here in Custom.io, you'll
+
+see design studio. It's a new email
+
+editor.
+
+Um, and we launched it quite early
+
+before I would say we had the amount of
+
+features that I would even want uh as a
+
+marketer myself. But since then, since
+
+over the past year and a half, we've
+
+been adding so much stuff into it. And
+
+it's email outreach that essentially
+
+drives that that feedback loop. Um, we
+
+had definitely a road map of items that
+
+we knew we were going to add throughout
+
+the beta experience, but when we hear
+
+from customers requests of what they
+
+want, we are constantly adding them into
+
+the next sprint. And that feedback kind
+
+of is is a result of touch points like
+
+this. It's just a simple email from
+
+myself that again is like okay here's
+
+like a quick overview of what you can do
+
+in design studio but like reply back
+
+with questions or comments. So although
+
+we do have an inproduct kind of like
+
+capture of people leaving feedback I get
+
+a ton of replies from this like at least
+
+20 to 30 a week and some of them again
+
+are like hey I I want to learn how to do
+
+this and then I'm like okay that's not
+
+clear in the product how can we make
+
+that experience better. Um, so even just
+
+general questions. There's no such thing
+
+as a stupid question in my books because
+
+email is tricky. It's a straightforward
+
+channel, but it's tricky to execute
+
+sometimes. And I want the product that I
+
+represent to be as easy as possible to
+
+to use. So touch points like this text
+
+based. They don't need like a fluffy
+
+lifestyle image are really easy to just
+
+get out the door and and get sent to to
+
+users. So that's my spiel of the the
+
+second email that we've we've sent. And
+
+that email's been running for a year and
+
+a half now, and it still gathers great
+
+feedback every single day. So, just to
+
+wrap up kind of like my long- winded
+
+chat here of how I implement life cycle
+
+and customer engagement points uh at
+
+customer.io is I really don't think you
+
+need a full CS team or like a research
+
+program to close the feedback loop. You
+
+just need the right message and the
+
+willingness to to listen. Sometimes it
+
+can be hard at scale, but if you break
+
+it up into kind of like bite-sized
+
+pieces like I have, it's digestible and
+
+it's usually really valuable to the
+
+business. And that's that.
+
+>> Awesome.
+
+>> Thanks, Naomi. All right, don't go
+
+anywhere. You can stop sharing your
+
+screen, though. That's okay. We're going
+
+to invite Jonathan and we're going to
+
+invite Sue back up to the stage. Um, if
+
+anyone has a question for Naomi of what
+
+she just presented, please put it in the
+
+chat. Um, it looks like I can use my
+
+window now. So, now I can see Okay,
+
+nothing in the Q&A panel. That's fine.
+
+Um, there was a question earlier. I'm
+
+going to go back first uh to a question
+
+that came up for Sue. Um this question
+
+is from Pat Sue. How far into your
+
+trial, remember um uh refresher the
+
+referral program in the trial and
+
+earlier on in the trial is what Sue was
+
+presenting. How far back in your trial
+
+did you find a sweet spot for
+
+communicating referral program or s our
+
+system is pretty complex and we have
+
+60-day onboarding period. curious if we
+
+should wait until that's completely over
+
+or if we potentially should start during
+
+the onboarding period and extend a bit
+
+beyond. Uh Sue, what do you think?
+
+>> This is exactly the question that we had
+
+before we started the referral program,
+
+which is why we tap the data team. I
+
+know this is the standard answer, but uh
+
+I think you should do the analysis with
+
+your data team on when referrals happen
+
+organically the most and kind of double
+
+down on that. And I think you'll be even
+
+if you have a 60-day window, I think
+
+you'll be surprised. It seems like uh
+
+the consumer mindset, they're more price
+
+sensitive or just it price is just top
+
+of their mind when they're starting
+
+their trial. Um so I would guess that
+
+earlier would be better.
+
+>> Yeah. And test it, try it out, right?
+
+And see see what it is. You could always
+
+try to find a limited way of testing it,
+
+I'm sure. Um jumping forward to
+
+Jonathan's question, John, the questions
+
+that came in for Jonathan, I should say.
+
+Uh, I believe Jonathan answered most of
+
+those. Uh, Jonathan, was there any that
+
+you wanted to expand upon that you
+
+didn't get to fully answer in chat that
+
+you would want to answer with with a mic
+
+in your hand, so to speak?
+
+>> Um, I don't think anything has not been
+
+said already. I think the net net of it
+
+is is that any any time you're doing
+
+something new for the first time or
+
+you're expanding on a strategy or doing
+
+things differently, all of it's hard,
+
+right? So really the intention was not
+
+to say this is easy. It really was about
+
+like sometimes the hard stuff is what
+
+you should be doing.
+
+>> Yeah.
+
+>> Um you know somebody asked about scaling
+
+customer education. It's incredibly
+
+difficult scale. It's actually
+
+unscalable, right? you'd have to hire
+
+more people to do those trainings
+
+because our customer education team, uh,
+
+we have two of them. They're building
+
+the decks, they're doing the live
+
+presentations, they're answering the
+
+questions, they are, you know, sending
+
+those videos to Vimeo, and they're doing
+
+all the behind the scenes stuff. Um, and
+
+it's pretty taxing. So, not easy, not
+
+necessarily scalable, but worthwhile.
+
+>> All right. Um, where I just I'm I'm
+
+jumping over to Slack to tell Allison to
+
+run the poll. In the spirit of feedback
+
+and growth marketing, inspired by We
+
+always do this, but inspired by Naomi
+
+looking for feedback. Sue looking for
+
+feedback, Jonathan looking for feedback.
+
+We're going to ask for feedback on this
+
+session today. If you could jump in and
+
+rate today's session, um, five being the
+
+best uh, 60 minutes of your week, one
+
+being you're putting together a lawsuit
+
+for the 60 minutes that you just lost. I
+
+don't know, whatever it is. One one's
+
+not good, five is really good. Give us a
+
+quick rating. That's very helpful. Um,
+
+we appreciate everybody uh spending time
+
+with us today. Hopefully this was
+
+helpful. Um, there was some great
+
+questions that came through. Um, and it
+
+was awesome to hear from Sue, Naomi, and
+
+Jonathan um on the different uh the
+
+different programs and campaigns and
+
+lots of data, lot like we're doing more
+
+of these sessions. We're sharing, you
+
+know, examples and visuals and it's
+
+getting more and more interesting to
+
+like just pull up your slides and just
+
+show me, you know, what what you what
+
+you would show your board, right? We
+
+talked about that earlier in the week
+
+and so it's really fun to see like
+
+inside each of these companies and see
+
+what you're doing. So, thank you to the
+
+three of you for spending time with us
+
+this week and our audience sharing all
+
+of that.
+
+>> Thanks for having us.
+
+>> All right, everybody. Talk to you soon.
+
+Thanks for thanks for the time. Bye.
+
+Hear me.
