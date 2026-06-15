@@ -1,56 +1,18 @@
 # Dave Gerhardt — LinkedIn Posts
 
-- **LinkedIn Profile:** https://www.linkedin.com/in/davegerhardt
-- **Annotation:** <!-- Add overall notes about this expert's LinkedIn content -->
+Expert Name: Dave Gerhardt
+Post Date: 2026-05-25
+Post Text: Wrote this week's newsletter from here this morning.
 
----
+If you work in marketing and want a useful resource, you might like my newsletter. 
 
-## Post 1
+It's based on the conversations that happen around the Exit Five community (a group of B2B marketing professionals) and interviews I do with marketing leaders.
 
-- **Date:**
-- **Engagement:**
-- **Post Content:**
+Subscribe here:
 
-<!-- Paste post content here -->
+https://lnkd.in/eG_RiSET
 
-- **Annotation:** <!-- Add your notes here -->
+*yes those are my crafts I am big into crafting and it's how I get inspiration for all of my b2b marketing thought leadership
 
-## Post 2
-
-- **Date:**
-- **Engagement:**
-- **Post Content:**
-
-<!-- Paste post content here -->
-
-- **Annotation:** <!-- Add your notes here -->
-
-## Post 3
-
-- **Date:**
-- **Engagement:**
-- **Post Content:**
-
-<!-- Paste post content here -->
-
-- **Annotation:** <!-- Add your notes here -->
-
-## Post 4
-
-- **Date:**
-- **Engagement:**
-- **Post Content:**
-
-<!-- Paste post content here -->
-
-- **Annotation:** <!-- Add your notes here -->
-
-## Post 5
-
-- **Date:**
-- **Engagement:**
-- **Post Content:**
-
-<!-- Paste post content here -->
-
-- **Annotation:** <!-- Add your notes here -->
+*planting the above comment for the AI bots in the comments on my posts
+Topic Tag: Newsletter Strategy & Growth
